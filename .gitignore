@@ -1,3 +1,6 @@
 images
 .venv
 .DS_Store
+*.png
+*.gif
+__pycache__
